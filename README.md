@@ -19,5 +19,5 @@ for x86_64:
 
 ## calc_x86 result
 ![x86 result](/img/result_x86.png)
-## calc_x86 result
+## calc_riscv result
 ![riscv result](/img/result_riscv.png)
